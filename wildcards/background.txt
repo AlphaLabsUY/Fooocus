@@ -1,0 +1,4 @@
+clear background
+blank background
+plain background
+abandonated building background
