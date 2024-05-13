@@ -1,0 +1,19 @@
+"film photography style" [your prompt], [modifiers], [shot type], [shot angle], [grain level]
+
+[modifiers] - still a WIP, optional
+
+nothing, bokeh, bloom, god rays, moody, etc.
+
+[shot type] - only use for portraits or pictures with people
+
+nothing, Extreme Close Up, Close Up, Medium Close Up, Medium Shot, Medium Full Shot, Full Shot
+
+[shot angle] - describes the camera angle
+
+nothing, bokeh, bloom, god rays, moody, etc.
+
+[grain level] - important to reduce Jpeg artifacts
+
+nothing, light grain, medium grain, heavy grain
+
+
