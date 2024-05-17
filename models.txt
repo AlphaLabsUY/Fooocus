@@ -10,3 +10,39 @@ https://huggingface.co/stabilityai/sdxl-turbo/resolve/main/sd_xl_turbo_1.0_fp16.
 Lora
 https://civitai.com/models/158945/sdxl-film-photography-style
 https://civitai.com/models/25538/fisheye?modelVersionId=30574
+
+
+
+https://civitai.com/models/432586/stylexl-cinematic-shot
+https://civitai.com/models/404694/death-metal-album-cover-xl
+https://civitai.com/models/25694/epicrealism
+https://civitai.com/models/277058/epicrealism-xl
+https://civitai.com/models/391036/cucoloris-casting-shadow-lighting-modifiers-style-xl-sd15
+https://civitai.com/models/235495/cinematic-kodak-motion-picture-film-still-style-xl
+https://civitai.com/models/291226/fujifilm-instax-polaroid
+https://civitai.com/models/286482/retro-photo-80s-90s-xl
+https://civitai.com/models/347461/euphoria-style
+https://civitai.com/models/149408/tech-streetwear
+https://civitai.com/models/74429/old-siemens-photos
+
+
+917330c9131d97873cdb7fefd08e0dbb
+
+model id
+
+
+curl https://civitai.com/api/v1/models/432586 > 432586.json
+curl https://civitai.com/api/v1/models/404694 > 404694.json
+curl https://civitai.com/api/v1/models/25694 > 25694.json
+curl https://civitai.com/api/v1/models/277058 > 277058.json
+curl https://civitai.com/api/v1/models/391036 > 391036.json
+curl https://civitai.com/api/v1/models/235495 > 235495.json
+curl https://civitai.com/api/v1/models/291226 > 291226.json
+curl https://civitai.com/api/v1/models/286482 > 286482.json
+curl https://civitai.com/api/v1/models/347461 > 347461.json
+curl https://civitai.com/api/v1/models/149408 > 149408.json
+curl https://civitai.com/api/v1/models/74429 > 74429.json
+
+
+curl https://civitai.com/api/v1/models/432586
+
