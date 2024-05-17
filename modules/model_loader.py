@@ -19,6 +19,11 @@ def load_file_from_url(
         parts = urlparse(url)
         file_name = os.path.basename(parts.path)
     cached_file = os.path.abspath(os.path.join(model_dir, file_name))
+    
+    parts = urlparse(url)
+    if parts.netloc == "civitai.com":
+        url = f'{url}?token={os.getenv("CIVATAI_API_TOKEN")}'
+
     if not os.path.exists(cached_file):
         print(f'Downloading: "{url}" to {cached_file}\n')
         from torch.hub import download_url_to_file
